@@ -121,7 +121,7 @@
 ## 🌐 Find Me
 
 <p>
-  <a href="https://github.com/JacksonDivakar">
+  <a href="https://github.com/JacksonDivakarProjects">
     <img src="https://img.shields.io/badge/Main_Profile-JacksonDivakar-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/jackson-divakar/">
