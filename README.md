@@ -1,81 +1,74 @@
-## 👨‍💻 Jackson Divakar
+<p align="center">
+  <a href="https://github.com/JacksonDivakar">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&multiline=true&width=600&height=90&lines=Jackson+Divakar;AI+%7C+Data+Engineering+%7C+Intelligent+Systems;Building+Data+%E2%86%92+Intelligence+%E2%86%92+Decision+Pipelines&color=00e6e6" alt="Typing SVG" />
+  </a>
+</p>
 
-**Building systems that turn data into decisions**
+<br/>
 
----
-
-### 🔗 Connect
-
-* LinkedIn: [https://www.linkedin.com/in/jackson-divakar/](https://www.linkedin.com/in/jackson-divakar/)
-* Kaggle: [https://www.kaggle.com/jacksondivakarr](https://www.kaggle.com/jacksondivakarr)
-* Email: [jacksondivakar@gmail.com](mailto:jacksondivakar@gmail.com)
-
----
-
-##  About Me
-
-* Data-focused engineer working across **Data Engineering, ML, and AI systems**
-* Build **end-to-end pipelines** — from raw data → models → business decisions
-* Focus on **real-world systems**, not isolated experiments
+<p align="center">
+  <a href="https://github.com/JacksonDivakar">
+    <img src="https://github-stats-alpha.vercel.app/api?username=JacksonDivakar&cc=000000&tc=00e6e6&ic=1f77b4&bc=000000">
+  </a>
+</p>
 
 ---
 
-##  What I Build
+### 🚀 About Me
 
-* **AI Systems** → RAG, LLM-based decision support
-* **Data Pipelines** → Azure, Databricks, Medallion Architecture
-* **ML Solutions** → churn prediction, behavioral analytics
-* **Real-Time Analytics** → computer vision + KPI systems
+* Engineer focused on **AI systems, Data Engineering, and Analytics**
+* Build **end-to-end pipelines** from raw data → models → decisions
+* Strong focus on **real-world systems, not just models**
+* Currently working on **RAG systems, real-time analytics, and decision intelligence**
 
----
-
-##  Featured Projects
-
-###  Smart Footfall Analytics
-
-Real-time system converting CCTV data into **confidence-weighted insights** and **AI recommendations**
-
-###  Meeting RAG System
-
-Hybrid retrieval (BM25 + semantic) system delivering **source-cited answers** from transcripts
-
-###  Customer Renewal Analysis
-
-Churn prediction system (~0.95 ROC-AUC) using **multi-source behavioral data**
-
-###  Azure Data Engineering Pipeline
-
-End-to-end pipeline with **Delta Lake, PySpark, and optimized analytics models**
+📬 Contact: **[jacksondivakar@gmail.com](mailto:jacksondivakar@gmail.com)**
 
 ---
 
-##  Tech Stack
+### 🌐 Connect
 
-* **Languages:** Python, SQL
-* **Data:** Pandas, PySpark
-* **Backend:** FastAPI
-* **Frontend:** React
-* **Cloud:** Azure, Databricks
-* **Tools:** Docker, Git
+<p>
+  <a href="https://www.linkedin.com/in/jackson-divakar/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="https://www.kaggle.com/jacksondivakarr" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kaggle.svg" alt="Kaggle" height="30" width="30" />
+  </a>
+</p>
 
 ---
 
-##  How I Think
+### 🧠 Featured Work
 
+* **Smart Footfall Analytics** → CCTV → CV → Confidence-weighted KPIs → AI recommendations
+* **Meeting RAG System** → Hybrid retrieval + LLM → source-cited answers
+* **Customer Renewal Analysis** → Churn prediction (~0.95 ROC-AUC)
+* **Azure Data Pipeline** → Medallion architecture with Delta optimization
+
+---
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+### ⚡ Focus
+
+```text
+Data → Pipelines → Intelligence → Decisions
 ```
-Raw Data → Clean Data → Signals → Models → Insights → Decisions
-```
 
 ---
 
-##  Focus
+### 📌 Principle
 
-* Building **scalable AI systems**
-* Improving **decision intelligence**
-* Designing **robust data architectures**
-
----
-
-##  Principle
-
-If a system cannot explain its output, it is incomplete.
+Systems should not just predict — they should **explain and drive decisions**.
