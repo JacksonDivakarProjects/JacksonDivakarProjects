@@ -4,22 +4,22 @@
   </a>
 </p>
 
-<br/>
-
 <p align="center">
   <a href="https://github.com/JacksonDivakar">
-    <img src="https://github-stats-alpha.vercel.app/api?username=JacksonDivakar&cc=000000&tc=00e6e6&ic=1f77b4&bc=000000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=JacksonDivakar&cc=000000&tc=00e6e6&ic=1f77b4&bc=000000" alt="GitHub Stats"/>
   </a>
 </p>
 
 ---
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JacksonDivakar.JacksonDivakar&left_color=black&right_color=00e6e6" alt="Visitor Badge"/>
+
 ### 🚀 About Me
 
-* Engineer focused on **AI systems, Data Engineering, and Analytics**
-* Build **end-to-end pipelines** from raw data → models → decisions
-* Strong focus on **real-world systems, not just models**
-* Currently working on **RAG systems, real-time analytics, and decision intelligence**
+- 🧠 Engineer focused on **AI systems, Data Engineering, and Analytics**
+- 🔁 Build **end-to-end pipelines** from raw data → models → decisions
+- ⚙️ Strong focus on **real-world systems, not just models**
+- 🔬 Currently working on **RAG systems, real-time analytics, and decision intelligence**
 
 📬 Contact: **[jacksondivakar@gmail.com](mailto:jacksondivakar@gmail.com)**
 
@@ -29,10 +29,13 @@
 
 <p>
   <a href="https://www.linkedin.com/in/jackson-divakar/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.kaggle.com/jacksondivakarr" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kaggle.svg" alt="Kaggle" height="30" width="30" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="mailto:jacksondivakar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -40,35 +43,71 @@
 
 ### 🧠 Featured Work
 
-* **Smart Footfall Analytics** → CCTV → CV → Confidence-weighted KPIs → AI recommendations
-* **Meeting RAG System** → Hybrid retrieval + LLM → source-cited answers
-* **Customer Renewal Analysis** → Churn prediction (~0.95 ROC-AUC)
-* **Azure Data Pipeline** → Medallion architecture with Delta optimization
+| Project | Stack | Highlight |
+|--------|-------|-----------|
+| 🎯 **Smart Footfall Analytics** | CV · KPI Engine · LLM | CCTV → Confidence-weighted KPIs → AI recommendations |
+| 💬 **Meeting RAG System** | Hybrid Retrieval · LLM | Source-cited answers from meeting transcripts |
+| 📉 **Customer Renewal Analysis** | ML · XGBoost | Churn prediction @ ~0.95 ROC-AUC |
+| ☁️ **Azure Data Pipeline** | ADF · Databricks · Delta | Medallion architecture with Delta optimization |
 
 ---
 
 ### 🛠️ Tools & Technologies
 
+#### 🐍 Languages & Core
 <p>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+#### 📊 Data & ML
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+</p>
+
+#### ☁️ Cloud & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 ---
 
-### ⚡ Focus
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacksonDivakar&theme=dark&background=000000&ring=00e6e6&fire=00e6e6&currStreakLabel=00e6e6&sideNums=00e6e6&dates=888888&border=00e6e6" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JacksonDivakar&bg_color=000000&color=00e6e6&line=1f77b4&point=00e6e6&area=true&hide_border=false" alt="Activity Graph"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JacksonDivakar&theme=onestar&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+### ⚡ Philosophy
 
 ```text
 Data → Pipelines → Intelligence → Decisions
 ```
 
+> 📌 **Principle:** Systems should not just predict — they should **explain and drive decisions**.
+
 ---
 
-### 📌 Principle
-
-Systems should not just predict — they should **explain and drive decisions**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e6e6&height=80&section=footer&fontSize=20" alt="footer"/>
+</p>
