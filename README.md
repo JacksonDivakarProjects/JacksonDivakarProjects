@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&multiline=true&width=700&height=100&lines=Jackson+Divakar+%7C+Project+Portfolio;AI+%C2%B7+Data+Engineering+%C2%B7+Intelligent+Systems;Real-world+Pipelines+%E2%86%92+Real+Decisions&color=00e6e6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&multiline=true&width=600&height=90&lines=Jackson+Divakar+%7C+Project+Portfolio;AI+%C2%B7+Data+Engineering+%C2%B7+Intelligent+Systems;Building+Data+%E2%86%92+Intelligence+%E2%86%92+Decisions&color=00e6e6" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 ## 🚀 Featured Projects
 
 ### 🎯 [Confidence-Aware Vision-Based Decision Support System](https://github.com/JacksonDivakarProjects/confidence_aware_vision_based_decision_support_system_for_retail_analytics)
-> Real-time AI-powered retail analytics — CCTV → Computer Vision → Confidence-Weighted KPIs → LLM Recommendations
+> Real-time AI-powered retail analytics system that converts CCTV video into structured footfall insights, confidence-weighted KPIs, and LLM-driven business recommendations.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -33,7 +33,7 @@
 ---
 
 ### 💬 [Meeting Transcripts RAG System](https://github.com/JacksonDivakarProjects/meeting_transcripts_rag_system)
-> Enterprise-grade RAG pipeline — Natural language queries over meeting transcripts with source-cited answers
+> Enterprise-grade Meeting RAG system that enables natural language querying of transcripts using hybrid retrieval (BM25 + semantic search) and Groq LLMs. Delivers accurate, source-cited answers.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -47,7 +47,7 @@
 ---
 
 ### 📉 [Customer Renewal Analysis](https://github.com/JacksonDivakarProjects/customer_renewal_analysis)
-> Predictive churn analytics — Identifying at-risk customers 180–45 days before renewal
+> Predictive analytics project that identifies customers at risk of churn 180–45 days before renewal using multi-source data (billing, calls, emails, and support interactions).
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6C2A?style=flat-square&logo=xgboost&logoColor=white)
@@ -61,7 +61,7 @@
 ---
 
 ### ☁️ [Azure Subscription Data Pipeline](https://github.com/JacksonDivakarProjects/subscription_project)
-> End-to-end Medallion Architecture on Azure + Databricks — Bronze → Silver → Gold
+> End-to-end data engineering pipeline built on Azure and Databricks using Medallion Architecture (Bronze → Silver → Gold). Ingests raw subscription and customer data with scalable PySpark transformations.
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
@@ -75,7 +75,7 @@
 ---
 
 ### 📚 [Technical Notes](https://github.com/JacksonDivakarProjects/technical-notes)
-> Personal knowledge base — AI, Data Engineering, Web Development, and more
+> Personal technical notes and revision materials for AI, Data Engineering, Web Development, and more. Built as an Obsidian knowledge base for navigable, interlinked learning.
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
