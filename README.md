@@ -12,7 +12,7 @@
 
 ---
 
-## ⚡ About Me
+##  About Me
 
 * Data-focused engineer working across **Data Engineering, ML, and AI systems**
 * Build **end-to-end pipelines** — from raw data → models → business decisions
@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 What I Build
+##  What I Build
 
 * **AI Systems** → RAG, LLM-based decision support
 * **Data Pipelines** → Azure, Databricks, Medallion Architecture
@@ -29,27 +29,27 @@
 
 ---
 
-## 🧠 Featured Projects
+##  Featured Projects
 
-### 🔹 Smart Footfall Analytics
+###  Smart Footfall Analytics
 
 Real-time system converting CCTV data into **confidence-weighted insights** and **AI recommendations**
 
-### 🔹 Meeting RAG System
+###  Meeting RAG System
 
 Hybrid retrieval (BM25 + semantic) system delivering **source-cited answers** from transcripts
 
-### 🔹 Customer Renewal Analysis
+###  Customer Renewal Analysis
 
 Churn prediction system (~0.95 ROC-AUC) using **multi-source behavioral data**
 
-### 🔹 Azure Data Engineering Pipeline
+###  Azure Data Engineering Pipeline
 
 End-to-end pipeline with **Delta Lake, PySpark, and optimized analytics models**
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * **Languages:** Python, SQL
 * **Data:** Pandas, PySpark
@@ -60,7 +60,7 @@ End-to-end pipeline with **Delta Lake, PySpark, and optimized analytics models**
 
 ---
 
-## 📊 How I Think
+##  How I Think
 
 ```
 Raw Data → Clean Data → Signals → Models → Insights → Decisions
@@ -68,7 +68,7 @@ Raw Data → Clean Data → Signals → Models → Insights → Decisions
 
 ---
 
-## 📌 Focus
+##  Focus
 
 * Building **scalable AI systems**
 * Improving **decision intelligence**
@@ -76,6 +76,6 @@ Raw Data → Clean Data → Signals → Models → Insights → Decisions
 
 ---
 
-## 🔍 Principle
+##  Principle
 
 If a system cannot explain its output, it is incomplete.
